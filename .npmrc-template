@@ -1,0 +1,3 @@
+//registry.npmjs.org/:_authToken=${TOKEN_HERE}
+package-lock=false
+yarn.lock=false
